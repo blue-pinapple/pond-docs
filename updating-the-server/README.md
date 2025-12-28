@@ -35,6 +35,10 @@ Restart the server (or let it restart naturally) and wait about a day to see if 
 ### Create anouncment
 
 Create an anouncment letting people know when the server will be down, how the update will impact them and outlining the processs you will take (Look at previous announcements in #change-logs)
+
+{% hint style="info" %}
+[https://minecraft.wiki/w/Category:Official\_artwork](https://minecraft.wiki/w/Category:Official_artwork) is a great place to find update art
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -85,5 +89,11 @@ Manualy Regen Areas
 ### Pre-gen
 
 If you did trimming, you may need to pregen the overworld again
+{% endstep %}
+
+{% step %}
+### Update info and Announce
+
+
 {% endstep %}
 {% endstepper %}

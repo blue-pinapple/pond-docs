@@ -10,3 +10,7 @@
 ## Plugins
 
 * [Updating Plugins in General](plugins/updating-plugins-in-general.md)
+
+***
+
+* [Code of Conduct](code-of-conduct.md)

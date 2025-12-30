@@ -23,3 +23,7 @@ questions:
     # Whether to show the question message or not (user message).
     broadcast_question: yes
 ```
+
+
+
+you can run `/helperbot setname &e[&6Bot&e] &fGoose &f»&7` to change it's name

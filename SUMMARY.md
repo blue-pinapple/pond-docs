@@ -10,6 +10,7 @@
 ## Plugins
 
 * [Updating Plugins in General](plugins/updating-plugins-in-general.md)
+* [My Commands](plugins/my-commands.md)
 * [Helper Bot](plugins/helper-bot.md)
 
 ***

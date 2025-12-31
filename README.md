@@ -35,6 +35,10 @@ head to [the apex ftp dashboard](https://panel.apexminecrafthosting.com/ftpClien
 {% endstep %}
 {% endstepper %}
 
+{% hint style="info" %}
+Press ctrl + s each time you open filezilla to view your saved sites, then press connect
+{% endhint %}
+
 ## Panels explained
 
 panels on the left are your client/computer files panels on the right are the server/remote files.

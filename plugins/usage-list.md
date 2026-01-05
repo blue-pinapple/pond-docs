@@ -44,7 +44,7 @@ Self compiled version with different plugin ID & config. Used for cool creative 
 
 ### Discord Schematics Uploader&#x20;
 
-Either one by Wirdle or a dicordSRV addon \[could be custom plugin]&#x20;
+Either one by Whirdle or a dicordSRV addon \[could be custom plugin]&#x20;
 
 **Why?** Means people don't have to use the web Uploader (Not that important)
 

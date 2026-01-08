@@ -9,6 +9,8 @@
 
 ## Plugins
 
+* [Creating Worlds](plugins/creating-worlds.md)
+* [Handling X-Ray](plugins/handling-x-ray.md)
 * [Usage List](plugins/usage-list.md)
 * [Updating Plugins in General](plugins/updating-plugins-in-general.md)
 * [My Commands](plugins/my-commands.md)

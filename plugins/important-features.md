@@ -4,7 +4,7 @@ description: >-
   have it
 ---
 
-# Usage List
+# Important Features
 
 Visit the [sheet](https://docs.google.com/spreadsheets/d/1RAVtTbTT8_WFFZVFMBG1g7GngSep1gQhg9ygU5Az1rU/edit?usp=sharing) for other info &#x20;
 
@@ -88,3 +88,60 @@ Protocol for the item swapper mod
 
 </details>
 
+<details>
+
+<summary>General</summary>
+
+Block Recovery -> CoreProtect, restore chunk \[High]
+
+InvRecovery (SMP) -> Inventory rollback plus  \[High]
+
+Backups of server -> 7ZipBackups  \[Medium]
+
+Inventory management (includes offline users) -> Invsee++, Invsee++\_give, Invsee++\_clear, Inventory Rollback Plus  \[Low]
+
+</details>
+
+<details>
+
+<summary>Anti-Cheat</summary>
+
+x-ray tracking -> Minetrack \[High]
+
+Anti-cheat -> Grim \[Medium]
+
+anti-greifing -> Coreprotect \[High]
+
+custom spawn & member plot protection -> WorldGuard \[Low]
+
+</details>
+
+<details>
+
+<summary>Chat</summary>
+
+MiniMessage Nicknames -> HexNicks \[low]
+
+Chat channels -> Venture chat \[Medium]
+
+Profanity filtering -> Venture chat \[Medium]
+
+Discord Chat Bridge -> DiscordSRV \[Medium]
+
+Voice Chat -> Simple Voice chat  \[Medium]
+
+Text placeholders -> Interactive chat, interactive chat discord \[Low, but fun]
+
+Discord Image previews ->  interactive chat discord \[Low, but fun]
+
+Item Showoff -> Interactive chat, interactive chat discord \[Low, but fun]
+
+Regex chat replace -> interactive chat \[medium]
+
+Regex Triggers -> HelperBot \[medium]
+
+Chat report disabler -> freedom chat \[medium]
+
+Voice chat -> simple voice chat, simple voice chat bridge
+
+</details>

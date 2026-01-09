@@ -1,5 +1,6 @@
 ---
 description: How to edit the code of conduct / server rules
+icon: scale-balanced
 ---
 
 # Code of Conduct

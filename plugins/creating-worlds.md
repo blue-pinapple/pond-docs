@@ -31,7 +31,7 @@ You can create a world with the following command. You can find more detailed op
 Gamerules and difficulty are different in each world, so remember to set them
 {% endhint %}
 
-If you are doing a multiworld setup, make sure to merge the worlds together like so
+If you are doing a multiworld setup, make sure to merge the worlds like so. It is recommended that the first one is your main world, as inventories will be copied from the first world.&#x20;
 
 ```
 /world inventory merge world world_nether world_the_end

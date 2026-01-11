@@ -26,6 +26,8 @@ If a command is showing up red, add the following to the command
 ```yaml
 register: true
 ```
+
+By default, players are given `mycommand.cmd.*` But if this is changed, you may need to give players perms to fix this issue.
 {% endhint %}
 
 ### Alias

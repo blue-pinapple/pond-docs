@@ -86,19 +86,67 @@ Protocol for the item swapper mod
 
 **Why?** for those who use the itemswaper mod [https://modrinth.com/plugin/itemswapper](https://modrinth.com/plugin/itemswapper) (Unknown if used)&#x20;
 
+
+
+Plotsquared
+
 </details>
 
 <details>
 
-<summary>General</summary>
+<summary>Creative</summary>
+
+Armour Stands -> Armour stand editor, armour poser \[Medium]
+
+Item frames -> Armour stand editor \[Low]
+
+Night vision, no clip & others-> Builder Utilities Blues tweeks \[Medium]
+
+Other shortcuts n stuff-> Easy Edits \[low]
+
+Plots251 Freezing -> Builder Utilities \[High]
+
+Worldedit -> FAWE \[high]
+
+Axiom \[high]
+
+Painting -> GoBrush, GoPaint Advanced, FAWE, FAVE, Axiom \[medium]
+
+ItemSwapper mod support -> Itemswaper \[low]
+
+Creative map to SMP -> MyCommands & Datapack \[low]
+
+OkLab schematic & small shortcuts -> MyCommands \[low]
+
+</details>
+
+<details>
+
+<summary>General </summary>
 
 Block Recovery -> CoreProtect, restore chunk \[High]
 
-InvRecovery (SMP) -> Inventory rollback plus  \[High]
+InvRecovery (SMP) -> Inventory rollback plus \[High]
 
-Backups of server -> 7ZipBackups  \[Medium]
+Custom Commands -> My commands \[High, but will be obsolete]
 
-Inventory management (includes offline users) -> Invsee++, Invsee++\_give, Invsee++\_clear, Inventory Rollback Plus  \[Low]
+Inventory management (includes offline users) -> Invsee++, Invsee++\_give, Invsee++\_clear, Inventory Rollback Plus \[Low]
+
+Multiworld management -> My worlds \[High, but will be obsolete]
+
+Custom Portal destinations (e.g. Comp winner portal, event world) -> My worlds \[Medium]
+
+event world custom loot -> rose loot \[low]
+
+Joining accesablitiy -> Geyser, Via Version, Via Backwards \[High]
+
+Permition manager -> Luckperms \[High]
+
+per world plugins \[High, but will be obsolete]
+
+Temp Bans -> essentials \[Medium]
+
+No Enderman Greifing
 
 </details>
 
@@ -138,10 +186,70 @@ Item Showoff -> Interactive chat, interactive chat discord \[Low, but fun]
 
 Regex chat replace -> interactive chat \[medium]
 
-Regex Triggers -> HelperBot \[medium]
+Regex based FAQ help -> HelperBot \[medium]
 
 Chat report disabler -> freedom chat \[medium]
 
-Voice chat -> simple voice chat, simple voice chat bridge
+Voice chat -> simple voice chat \[medium], simple voice chat bridge \[low]
+
+Replaced Vanilla chat commands -> essentials \[Medium/low]
 
 </details>
+
+<details>
+
+<summary>Fun/extras</summary>
+
+Mob Heads, Block Heads, head sounds -> Dropheads, Miniblocks (datapacks) \[high]
+
+Rid-able bees -> custom databack
+
+shrinking enchantment -> custom datapack \[Medium] WARNING: if removed, any loaded item that has it will immediately loose this enchantment permanently
+
+multifunctonal calculator -> CalcMod \[low]
+
+Sitting and posing -> gsit \[low]
+
+
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Performance</summary>
+
+Performance based dynamic render distance -> view distance tweaks
+
+</details>
+
+<details>
+
+<summary>Server Management</summary>
+
+Backups of server -> 7ZipBackups  \[Medium]
+
+Restore from backup -> 7ZipBackups, restore chunk \[Medium]
+
+Mod only joining -> Maintaince \[low]
+
+Accessible log reading -> MCLogs \[low]
+
+Plugin Managment -> PlugManX \[low]
+
+Player analytics -> PLAN&#x20;
+
+Live ingame (bossbar) performance monitoring -> TABtps
+
+Mod shortcuts
+
+</details>
+
+OP permission structure:
+
+All moderators are given the op-shortcut group, this allows them to op and drop themselves when needed and change luckperms.&#x20;
+
+op-extra includes all creative perms plus a few more destructive/unwanted commands for normal gameplay

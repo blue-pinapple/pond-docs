@@ -70,8 +70,6 @@ Inventory management (includes offline users) -> Invsee++, Invsee++\_give, Invse
 
 Night Vision and No Clip for mods in smp -> BuilderUtilites \[Low]
 
-Server map -> [UNMinned](https://unmined.net/) and custom code \[low]
-
 </details>
 
 <details>
@@ -169,6 +167,18 @@ Mod only joining -> Maintaince \[low]
 Plugin Managment -> PlugManX \[low]
 
 Pre-Generation -> Chunky
+
+</details>
+
+<details>
+
+<summary>External</summary>
+
+Server map -> [UNMinned](https://unmined.net/) and custom code \[low]
+
+Pond Web -> Named Hosting w/ NamelessMC
+
+ServerDown Alerts - Checkly
 
 </details>
 

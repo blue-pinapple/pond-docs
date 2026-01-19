@@ -6,103 +6,15 @@ description: >-
 
 # Important Features
 
-Visit the [sheet](https://docs.google.com/spreadsheets/d/1RAVtTbTT8_WFFZVFMBG1g7GngSep1gQhg9ygU5Az1rU/edit?usp=sharing) for other info &#x20;
+Visit the [sheet](https://docs.google.com/spreadsheets/d/1RAVtTbTT8_WFFZVFMBG1g7GngSep1gQhg9ygU5Az1rU/edit?usp=sharing) for other info and links.&#x20;
 
-<details>
+These are put into different categories and order by the priority according to Whale. This is bassed on usage & importance. Keep in mine this does not display all of the plugins as some may be libraries/dependencies for other plugins.
 
-<summary>Creative Focused</summary>
-
-### Armor Poser
-
-Protocol for using the armor poser. Has client GUI
-
-**Why?** This gives users more control in a more intuitive way to control armor stands
-
-### Armour Stand Editor
-
-A fully server side armour Stand editor using blaze rods. Sometimes used in survival. Also allows invisible item frames
-
-**Why?** Provides a way for all users to have the opportunity to do cool stuff with armour stands.
-
-### Axiom Paper Plugin
-
-Only usable in creative no matter the perms
-
-**Why?** Popular building tools.
-
-### Builder Utilities&#x20;
-
-Used only to freeze plots251
-
-**Why?** Allows for people to create without worrying about block updates in 251
-
-### Builder Utilities Blue's changes
-
-Self compiled version with different plugin ID & config. Used for cool creative utilities and night-vision/no clip for op-extra in SMP  \[could be custom plugin]
-
-**Why?** Allows for players to use plots75 for redstone and other cool command shortcuts
-
-### Discord Schematics Uploader&#x20;
-
-Either one by Whirdle or a dicordSRV addon \[could be custom plugin]&#x20;
-
-**Why?** Means people don't have to use the web Uploader (Not that important)
-
-### Ez Edits
-
-Old version of EZEdits, unknown if people use it much
-
-**Why?** Some good generators n stuff (I don't really know)
-
-### F3 perm
-
-F3 Gamemode changes. \[could be custom plugin]&#x20;
-
-**Why?** Intuitive way for players to change gamemode&#x20;
-
-### FA Voxel Sniper
-
-### FAWE
-
-World edit. Also used for copying builds to creative and restoring terrain in SMP.
-
-**Why?** Well, it's world edit
-
-## GoBrush
-
-No longer updated
-
-**Why?** More intuitive/advanced brushes /w GUI than World edit
-
-### GoPaint Advanced
-
-GoPaint fork that works better on the latest MC
-
-**Why?** More intuitive/advanced brushes /w GUI than World edit
-
-### Item Swapper
-
-Protocol for the item swapper mod
-
-**Why?** for those who use the itemswaper mod [https://modrinth.com/plugin/itemswapper](https://modrinth.com/plugin/itemswapper) (Unknown if used)&#x20;
-
-
-
-Plotsquared
-
-</details>
+Some areas are hoverable[^1] with extra info
 
 <details>
 
 <summary>Creative</summary>
-
-Armour Stands -> Armour stand editor, armour poser \[Medium]
-
-Item frames -> Armour stand editor \[Low]
-
-Night vision, no clip & others-> Builder Utilities Blues tweeks \[Medium]
-
-Other shortcuts n stuff-> Easy Edits \[low]
 
 Plots251 Freezing -> Builder Utilities \[High]
 
@@ -110,13 +22,23 @@ Worldedit -> FAWE \[high]
 
 Axiom \[high]
 
-Painting -> GoBrush, GoPaint Advanced, FAWE, FAVE, Axiom \[medium]
+[Armour Stands](#user-content-fn-2)[^2] -> Armour stand editor, armour poser \[Medium]
 
-ItemSwapper mod support -> Itemswaper \[low]
+Night vision, no clip & others-> [Builder Utilities Blues tweaks](#user-content-fn-3)[^3] \[Medium]
+
+World Painting -> GoBrush, GoPaint Advanced, FAWE, FAVE, Axiom \[medium]
+
+[Invisible Item frames](#user-content-fn-4)[^4] -> Armour stand editor \[Low]
+
+Other shortcuts n stuff-> Easy Edits \[low]
 
 Creative map to SMP -> MyCommands & Datapack \[low]
 
 OkLab schematic & small shortcuts -> MyCommands \[low]
+
+[ItemSwapper mod support](#user-content-fn-5)[^5] -> Itemswaper \[low]
+
+Mob Heads & Block Heads -> Dropheads, Miniblocks[^6] \[low]
 
 </details>
 
@@ -128,37 +50,41 @@ Block Recovery -> CoreProtect, restore chunk \[High]
 
 InvRecovery (SMP) -> Inventory rollback plus \[High]
 
-Custom Commands -> My commands \[High, but will be obsolete]
-
-Inventory management (includes offline users) -> Invsee++, Invsee++\_give, Invsee++\_clear, Inventory Rollback Plus \[Low]
-
-Multiworld management -> My worlds \[High, but will be obsolete]
-
-Custom Portal destinations (e.g. Comp winner portal, event world) -> My worlds \[Medium]
-
-event world custom loot -> rose loot \[low]
-
 Joining accesablitiy -> Geyser, Via Version, Via Backwards \[High]
 
-Permition manager -> Luckperms \[High]
+No Enderman Greifing \[high]
+
+Permission manager -> Luckperms \[High]
+
+[Custom Commands](#user-content-fn-7)[^7] -> My commands \[High, but will be obsolete]
+
+[Multiworld management ](#user-content-fn-8)[^8]-> My worlds \[High, but will be obsolete]
 
 per world plugins \[High, but will be obsolete]
 
-Temp Bans -> essentials \[Medium]
+[Custom Portal destinations](#user-content-fn-9)[^9] -> My worlds \[Medium]
 
-No Enderman Greifing
+Temp Bans -> essentials[^10] \[Medium]
+
+Inventory management (includes offline users) -> Invsee++, Invsee++\_give, Invsee++\_clear, Inventory Rollback Plus \[Low]
+
+Night Vision and No Clip for mods in smp -> BuilderUtilites \[Low]
+
+Server map -> [UNMinned](https://unmined.net/) and custom code \[low]
 
 </details>
 
 <details>
 
-<summary>Anti-Cheat</summary>
+<summary>Rule Breaking checks n stuff</summary>
 
-x-ray tracking -> Minetrack \[High]
+[x-ray tracking](#user-content-fn-11)[^11] -> Minetrack \[High]
 
-Anti-cheat -> Grim \[Medium]
+anti-griefing -> Coreprotect[^12] \[High]
 
-anti-greifing -> Coreprotect \[High]
+Item tracking for stealing -> Coreprotect \[High]
+
+Anti-cheat[^4] -> GrimAC \[Medium]
 
 custom spawn & member plot protection -> WorldGuard \[Low]
 
@@ -168,31 +94,29 @@ custom spawn & member plot protection -> WorldGuard \[Low]
 
 <summary>Chat</summary>
 
-MiniMessage Nicknames -> HexNicks \[low]
-
-Chat channels -> Venture chat \[Medium]
+Chat channels -> [Venture cha](#user-content-fn-13)[^13]t \[Medium]
 
 Profanity filtering -> Venture chat \[Medium]
 
-Discord Chat Bridge -> DiscordSRV \[Medium]
+[Discord Chat Bridge](#user-content-fn-14)[^14] -> DiscordSRV \[Medium]
+
+[Regex chat replace](#user-content-fn-15)[^15] -> interactive chat \[medium]
 
 Voice Chat -> Simple Voice chat  \[Medium]
 
-Text placeholders -> Interactive chat, interactive chat discord \[Low, but fun]
-
-Discord Image previews ->  interactive chat discord \[Low, but fun]
-
-Item Showoff -> Interactive chat, interactive chat discord \[Low, but fun]
-
-Regex chat replace -> interactive chat \[medium]
-
-Regex based FAQ help -> HelperBot \[medium]
+Regex-based FAQ help -> HelperBot \[medium]
 
 Chat report disabler -> freedom chat \[medium]
 
+Replaced Vanilla chat commands -> essentials \[Medium/low]
+
 Voice chat -> simple voice chat \[medium], simple voice chat bridge \[low]
 
-Replaced Vanilla chat commands -> essentials \[Medium/low]
+Discord Image previews ->  interactive chat discord \[Low, but cool]
+
+[smart placeholders](#user-content-fn-16)[^16]-> Interactive chat, interactive chat discord \[Low, but cool]
+
+[MiniMessage Nicknames ](#user-content-fn-17)[^17]-> HexNicks \[low]
 
 </details>
 
@@ -200,17 +124,17 @@ Replaced Vanilla chat commands -> essentials \[Medium/low]
 
 <summary>Fun/extras</summary>
 
-Mob Heads, Block Heads, head sounds -> Dropheads, Miniblocks (datapacks) \[high]
+[Mob Heads, Block Heads, head sounds](#user-content-fn-18)[^18] -> Dropheads, Miniblocks[^6] \[high]
 
-Rid-able bees -> custom databack
+[Sitting and posing](#user-content-fn-19)[^19] -> gsit \[medium]
 
-shrinking enchantment -> custom datapack \[Medium] WARNING: if removed, any loaded item that has it will immediately loose this enchantment permanently
+shrinking enchantment -> [<mark style="color:$danger;">custom datapack</mark>](#user-content-fn-20)[^20] \[Medium]&#x20;
 
-multifunctonal calculator -> CalcMod \[low]
+[per player Locator bar settings](#user-content-fn-21)[^21] -> Locator Bar Configuration \[medium]
 
-Sitting and posing -> gsit \[low]
+Rid-able bees -> custom databack \[low]
 
-
+[Multifunctonal calculator](#user-content-fn-22)[^22] -> CalcMod \[low]
 
 
 
@@ -222,7 +146,7 @@ Sitting and posing -> gsit \[low]
 
 <summary>Performance</summary>
 
-Performance based dynamic render distance -> view distance tweaks
+[Performance based dynamic render distance](#user-content-fn-23)[^23] -> view distance tweaks \[low]
 
 </details>
 
@@ -234,17 +158,17 @@ Backups of server -> 7ZipBackups  \[Medium]
 
 Restore from backup -> 7ZipBackups, restore chunk \[Medium]
 
+Player analytics -> PLAN \[medium]
+
+[Live ingame (bossbar) performance monitoring](#user-content-fn-24)[^24] -> TABtps \[medium]
+
 Mod only joining -> Maintaince \[low]
 
-Accessible log reading -> MCLogs \[low]
+[Accessible log reading](#user-content-fn-25)[^25] -> MCLogs \[low]
 
 Plugin Managment -> PlugManX \[low]
 
-Player analytics -> PLAN&#x20;
-
-Live ingame (bossbar) performance monitoring -> TABtps
-
-Mod shortcuts
+Pre-Generation -> Chunky
 
 </details>
 
@@ -253,3 +177,54 @@ OP permission structure:
 All moderators are given the op-shortcut group, this allows them to op and drop themselves when needed and change luckperms.&#x20;
 
 op-extra includes all creative perms plus a few more destructive/unwanted commands for normal gameplay
+
+[^1]: Yup, you got it
+
+[^2]: also used in SMP
+
+[^3]: Simply a re-named version of builder uitlites so it can have a unique config and plots251 freezing is separate
+
+[^4]: 
+
+[^5]: Honestly, I don't think anyone uses it
+
+[^6]: This is a datapack
+
+[^7]: /op30 or /op-extra (gives all creative perms n more), //oklab, /SMP, /251, /maptosmp, /map, /links
+
+[^8]: Player data is split into its retrospective world folder, excluding stats n global stuff which is stored in the over world folder. The April fools world is a fun one with random geese, the original world is just one with the same seed and spawn creation and the dungeon is a creative world to build the upcoming event. All others are irrelevant. &#x20;
+
+[^9]: The important ones are the one at 251 spawn which is a portal to the comp winner. In the SMP Wrathryn portal is force linked. All other portals are just for fun but can be found with `/mw list`
+
+[^10]: Personally, I don't like essentials x
+
+[^11]: Seriously amazingly smart
+
+[^12]: Personaly, I'd use this workflow of a custom one (open source version available)
+
+[^13]: The dev for this one has moved to only updating when it breaks completely, I recommend finding an alternitive
+
+[^14]: Also includes DropHead notification in alerts.yml \[low]
+
+[^15]: Automaticaly replaces world names to a more friendly version. Clickable URLs
+
+[^16]: Item/invintory/location/levels/clickable commands&#x20;
+
+[^17]: Mini message nicknames are a lot more consistent when it comes to discordSRV, more userfriendly and work with birdflop (so far has been going well). I kept the old essentials system on because I didn't want to force everyone to switch straight away.\
+    I wanted to get a system like runway (a plugin) to get MiniMessages everywhere so people had an easier way to do cool text stuff.&#x20;
+
+[^18]: Yes, it's used. I think it makes the pond unique
+
+[^19]: People love being able to ride each other.&#x20;
+
+[^20]: <mark style="color:$danger;">WARNING: if removed, any loaded item that has it will immediately loose this enchantment permanently</mark>
+
+[^21]: Yes, this is actualy used so players can hide themselves and change their colour
+
+[^22]: Nether Cords, required resources, distance, recipes. But havn't heard anyone talking about it
+
+[^23]: Each world has a different base render-distance (e.g. 251 is farther) and this changes based on how many players are in a world and then reacts if MSPT is high. I'd love the ability for it to also react to people with high ping (tested and it does help)
+
+[^24]: Used by players to track there impact on perfomance
+
+[^25]: I really like it, but no one else uses it

@@ -106,15 +106,15 @@ Regex-based FAQ help -> HelperBot \[medium]
 
 Chat report disabler -> freedom chat \[medium]
 
+[MiniMessage Nicknames ](#user-content-fn-16)[^16]-> HexNicks[^17] \[medium]
+
 Replaced Vanilla chat commands -> essentials \[Medium/low]
 
 Voice chat -> simple voice chat \[medium], simple voice chat bridge \[low]
 
 Discord Image previews ->  interactive chat discord \[Low, but cool]
 
-[smart placeholders](#user-content-fn-16)[^16]-> Interactive chat, interactive chat discord \[Low, but cool]
-
-[MiniMessage Nicknames ](#user-content-fn-17)[^17]-> HexNicks \[low]
+[smart placeholders](#user-content-fn-18)[^18]-> Interactive chat, interactive chat discord \[Low, but cool]
 
 </details>
 
@@ -122,17 +122,17 @@ Discord Image previews ->  interactive chat discord \[Low, but cool]
 
 <summary>Fun/extras</summary>
 
-[Mob Heads, Block Heads, head sounds](#user-content-fn-18)[^18] -> Dropheads, Miniblocks[^6] \[high]
+[Mob Heads, Block Heads, head sounds](#user-content-fn-19)[^19] -> Dropheads, Miniblocks[^6] \[high]
 
-[Sitting and posing](#user-content-fn-19)[^19] -> gsit \[medium]
+[Sitting and posing](#user-content-fn-20)[^20] -> gsit \[medium]
 
-shrinking enchantment -> [<mark style="color:$danger;">custom datapack</mark>](#user-content-fn-20)[^20] \[Medium]&#x20;
+shrinking enchantment -> [<mark style="color:$danger;">custom datapack</mark>](#user-content-fn-21)[^21] \[Medium]&#x20;
 
-[per player Locator bar settings](#user-content-fn-21)[^21] -> Locator Bar Configuration \[medium]
+[per player Locator bar settings](#user-content-fn-22)[^22] -> Locator Bar Configuration \[medium]
 
 Rid-able bees -> custom databack \[low]
 
-[Multifunctonal calculator](#user-content-fn-22)[^22] -> CalcMod \[low]
+[Multifunctonal calculator](#user-content-fn-23)[^23] -> CalcMod \[low]
 
 
 
@@ -144,7 +144,7 @@ Rid-able bees -> custom databack \[low]
 
 <summary>Performance</summary>
 
-[Performance based dynamic render distance](#user-content-fn-23)[^23] -> view distance tweaks \[low]
+[Performance based dynamic render distance](#user-content-fn-24)[^24] -> view distance tweaks \[low]
 
 </details>
 
@@ -158,11 +158,11 @@ Restore from backup -> 7ZipBackups, restore chunk \[Medium]
 
 Player analytics -> PLAN \[medium]
 
-[Live ingame (bossbar) performance monitoring](#user-content-fn-24)[^24] -> TABtps \[medium]
+[Live ingame (bossbar) performance monitoring](#user-content-fn-25)[^25] -> TABtps \[medium]
 
 Mod only joining -> Maintaince \[low]
 
-[Accessible log reading](#user-content-fn-25)[^25] -> MCLogs \[low]
+[Accessible log reading](#user-content-fn-26)[^26] -> MCLogs \[low]
 
 Plugin Managment -> PlugManX \[low]
 
@@ -178,7 +178,8 @@ Server map -> [UNMinned](https://unmined.net/) and custom code \[low]
 
 Pond Web -> Named Hosting w/ NamelessMC
 
-ServerDown Alerts - Checkly
+ServerDown Alerts -> Checkly\
+World triming -> MCAselecter (via apex)
 
 </details>
 
@@ -218,23 +219,26 @@ op-extra includes all creative perms plus a few more destructive/unwanted comman
 
 [^15]: Automaticaly replaces world names to a more friendly version. Clickable URLs
 
-[^16]: Item/invintory/location/levels/clickable commands&#x20;
+[^16]: Mini message nicknames are a lot more consistent when it comes to discordSRV, more userfriendly and work with birdflop (so far has been going well). I kept the old essentials system on because I didn't want to force everyone to switch straight away.\
+    I wanted to get a system like runway (a plugin) to get MiniMessages everywhere so people had an easier way to do cool text stuff. \
+    p.s. Legacy codes are now deprecated
 
-[^17]: Mini message nicknames are a lot more consistent when it comes to discordSRV, more userfriendly and work with birdflop (so far has been going well). I kept the old essentials system on because I didn't want to force everyone to switch straight away.\
-    I wanted to get a system like runway (a plugin) to get MiniMessages everywhere so people had an easier way to do cool text stuff.&#x20;
+[^17]: Can be stored in database for easier nickname extraction
 
-[^18]: Yes, it's used. I think it makes the pond unique
+[^18]: Item/invintory/location/levels/clickable commands&#x20;
 
-[^19]: People love being able to ride each other.&#x20;
+[^19]: Yes, it's used. I think it makes the pond unique
 
-[^20]: <mark style="color:$danger;">WARNING: if removed, any loaded item that has it will immediately loose this enchantment permanently</mark>
+[^20]: People love being able to ride each other.&#x20;
 
-[^21]: Yes, this is actualy used so players can hide themselves and change their colour
+[^21]: <mark style="color:$danger;">WARNING: if removed, any loaded item that has it will immediately loose this enchantment permanently</mark>
 
-[^22]: Nether Cords, required resources, distance, recipes. But havn't heard anyone talking about it
+[^22]: Yes, this is actualy used so players can hide themselves and change their colour
 
-[^23]: Each world has a different base render-distance (e.g. 251 is farther) and this changes based on how many players are in a world and then reacts if MSPT is high. I'd love the ability for it to also react to people with high ping (tested and it does help)
+[^23]: Nether Cords, required resources, distance, recipes. But havn't heard anyone talking about it
 
-[^24]: Used by players to track there impact on perfomance
+[^24]: Each world has a different base render-distance (e.g. 251 is farther) and this changes based on how many players are in a world and then reacts if MSPT is high. I'd love the ability for it to also react to people with high ping (tested and it does help)
 
-[^25]: I really like it, but no one else uses it
+[^25]: Used by players to track there impact on perfomance
+
+[^26]: I really like it, but no one else uses it

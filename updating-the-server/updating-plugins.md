@@ -48,7 +48,7 @@ notes...
 
 ## Updating onto the server
 
-To update a plugin, open filezilla ([..](../ "mention") if you need help) and locate the update folder `default -> plugins -> update` (It is the one in **all lowercase**)
+To update a plugin, open filezilla ([README (1).md](<../README (1).md> "mention") if you need help) and locate the update folder `default -> plugins -> update` (It is the one in **all lowercase**)
 
 Drag and drop files into the remote/server update folder
 

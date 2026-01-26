@@ -12,6 +12,7 @@
 
 ## Plugins
 
+* [Modifying Owner](plugins/modifying-owner.md)
 * [Restore Chunk](plugins/restore-chunk.md)
 * [Important Features](plugins/important-features.md)
 * [Handling X-Ray](plugins/handling-x-ray.md)

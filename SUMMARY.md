@@ -12,6 +12,7 @@
 
 ## Plugins
 
+* [Restore Chunk](plugins/restore-chunk.md)
 * [Important Features](plugins/important-features.md)
 * [Handling X-Ray](plugins/handling-x-ray.md)
 * [Creating Worlds](plugins/creating-worlds.md)

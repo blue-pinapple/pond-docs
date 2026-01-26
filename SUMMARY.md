@@ -9,10 +9,10 @@
 * [Code of Conduct](code-of-conduct.md)
 * [Editing Form Components](editing-form-components.md)
 * [Ethics Guidlines](ethics-guidlines.md)
+* [Pet Owners](pet-owners.md)
 
 ## Plugins
 
-* [Modifying Owner](plugins/modifying-owner.md)
 * [Restore Chunk](plugins/restore-chunk.md)
 * [Important Features](plugins/important-features.md)
 * [Handling X-Ray](plugins/handling-x-ray.md)

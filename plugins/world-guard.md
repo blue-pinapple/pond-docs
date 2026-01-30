@@ -18,7 +18,7 @@ World Guad does not have tab autocomplete. Use their wiki to help guide you.
 
 ### Creating
 
-Select an area with the world edit wand tool (wooden axe). Create a region, then set it to inherit from `member_only_template`. Note: the name is **not** plural.
+Select an area with the world edit wand tool (wooden axe). Create a region, then set it to inherit from `member_only_template`. Note: the name is **not** plural. If a world doesn't have `member_only_template`  region, you may need to create one.
 
 {% code title="Replace <region> with the name you wish that area to have" %}
 ```lua
@@ -41,7 +41,7 @@ Modifying the flags of the template is easy. All children **in that world** will
 /rg flag members_only_template <flag> <allow/deny>
 ```
 
-#### Current settings (as of writing)
+#### Current Settings (as of writing)
 
 {% hint style="info" %}
 global regions (member\_only\_template) are world-specific, so these may differ slightly. Run `/region info member_only_template` for updated info

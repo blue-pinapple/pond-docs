@@ -25,7 +25,7 @@ Running `/edit` will bring up a dropdown. Select the form you wish to edit.
 You will have to run this for each change
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2026-01-09 at 5.02.12 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-01-09 at 5.03.24 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/Screenshot 2026-01-09 at 5.02.12 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2026-01-09 at 5.03.24 PM.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -33,7 +33,7 @@ You will have to run this for each change
 
 On the next dropdown, select the option to add a component (question). Then proceed to fill out the form. Once you are done, this will add the question at the **end of the form.**
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2026-01-09 at 5.03.41 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-01-09 at 5.06.35 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/Screenshot 2026-01-09 at 5.03.41 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2026-01-09 at 5.06.35 PM.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -41,7 +41,7 @@ On the next dropdown, select the option to add a component (question). Then proc
 
 To prevent double questions, we must remove the old one. Run `/edit` like in [Step 2](editing-form-components.md#edit-and-selecting-the-form)
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2026-01-09 at 5.07.01 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-01-09 at 5.13.50 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/Screenshot 2026-01-09 at 5.07.01 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2026-01-09 at 5.13.50 PM.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

@@ -48,11 +48,11 @@ notes...
 
 ## Updating onto the server
 
-To update a plugin, open filezilla ([setting-up-filezilla.md](../setting-up-filezilla.md "mention") if you need help) and locate the update folder `default -> plugins -> update` (It is the one in **all lowercase**)
+To update a plugin, open filezilla ([README (1).md](<../README (1).md> "mention") if you need help) and locate the update folder `default -> plugins -> update` (It is the one in **all lowercase**)
 
 Drag and drop files into the remote/server update folder
 
-<figure><img src="../../.gitbook/assets/Screenshot_2025-09-17_at_10.11.30_AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_2025-09-17_at_10.11.30_AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Putting it all together
 
@@ -68,4 +68,4 @@ Many plugins do still support versions newer than what they state, comments, a q
 
 Image if embed doesn't work
 
-<figure><img src="../../.gitbook/assets/Untitled-3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled-3.jpg" alt=""><figcaption></figcaption></figure>

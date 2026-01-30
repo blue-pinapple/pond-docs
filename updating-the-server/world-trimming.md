@@ -8,7 +8,7 @@ make sure to backup before proceding
 
 On the apex website head to the `trim world` tab (you must be administrator to use this). Then input the world name (default is often right) and the amount of inhabited time ticks you want to trim.
 
-<figure><img src="../../.gitbook/assets/Updating_the_server.008.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Updating_the_server.008.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 you can not trim nether or end by itself

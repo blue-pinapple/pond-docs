@@ -31,7 +31,7 @@ You can download filezilla from the link bellow or search up `filezilla free` [h
 
 head to [the apex ftp dashboard](https://panel.apexminecrafthosting.com/ftpClient/login/2487531) to get your ftp login info back in filezilla, go to file -> Site manager (ctrl + s) and create a new site, then input the ftp login information. Then head over to the advanced tab. For local directory press browse and find the folder you created. for Default remote add `/default` synchronised browsing is an optional setting to match folders on both your computer and the server. Lastly press `connect`&#x20;
 
-<figure><img src="../.gitbook/assets/Updating the server.001.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Updating the server.001.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -49,7 +49,7 @@ panels on the left are your client/computer files panels on the right are the se
 **Panels 6 & 7** are the **main window** where you can access files and folders \
 **Panel 8** shows the status and current progress of the **queue**/transfure
 
-<figure><img src="../.gitbook/assets/screenshot_fullwindow_numbered-1024x865.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/screenshot_fullwindow_numbered-1024x865.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 These panals can be hidden/shown via the buttons in panel 1.

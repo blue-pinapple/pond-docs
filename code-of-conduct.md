@@ -17,7 +17,7 @@ enable-code-of-conduct=true
 
 Locate `/default/codeofconduct`
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-12-29 at 4.36.35 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-12-29 at 4.36.35 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Then open and edit the text file&#x20;
 

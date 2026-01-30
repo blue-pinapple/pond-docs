@@ -30,7 +30,7 @@ Paid plugins require Wordle or Me
 {% step %}
 ### Open FTP Client
 
-I recommend using FileZilla ([README (1).md](<../README (1).md> "mention")), but it's available at the website: [https://panel.apexminecrafthosting.com/ftpClient/login/2487531](https://panel.apexminecrafthosting.com/ftpClient/login/2487531)
+I recommend using FileZilla ([setting-up-filezilla.md](../mc-managment/setting-up-filezilla.md "mention")), but it's available at the website: [https://panel.apexminecrafthosting.com/ftpClient/login/2487531](https://panel.apexminecrafthosting.com/ftpClient/login/2487531)
 
 (left apex website, right filezilla)
 

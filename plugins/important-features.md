@@ -46,6 +46,8 @@ Mob Heads & Block Heads -> Dropheads, Miniblocks[^6] \[low]
 
 <summary>General </summary>
 
+Code of conduct -> 1.21.9 Vanilla system
+
 Block Recovery -> CoreProtect, restore chunk \[High]
 
 InvRecovery[^7] (SMP) -> Inventory rollback plus \[High]

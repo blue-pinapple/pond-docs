@@ -9,6 +9,7 @@
 
 ## MC Managment
 
+* [Transferring accounts](mc-managment/transferring-accounts.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Ethics Guidlines](ethics-guidlines.md)
 * [Pet Owners](pet-owners.md)

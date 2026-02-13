@@ -9,10 +9,11 @@ icon: map
 Videos on this page are examples from another server, the files and setup may be different.
 {% endhint %}
 
-### <a href="https://pond-map.netlify.app" class="button primary" data-icon="map">View Map</a>
+<a href="https://pond-map.netlify.app" class="button primary" data-icon="map">View Map</a>
 
 ### Pre-requisets
 
+* Github account that has been added to the repo
 * Download [Github desktop](https://desktop.github.com/download/) and clone the repo: `https://github.com/blue-pinapple/The-Pond-Rendered-map`&#x20;
 * Download [uNmINed](https://unmined.net/)
 * Add the following presets into the unmined preset folder (watch clip)

@@ -1,4 +1,5 @@
 ---
+description: How to update the static map and markers. This may become outdated.
 icon: map
 ---
 
@@ -7,6 +8,8 @@ icon: map
 {% hint style="info" %}
 Videos on this page are examples from another server, the files and setup may be different.
 {% endhint %}
+
+### <a href="https://pond-map.netlify.app" class="button primary" data-icon="map">View Map</a>
 
 ### Pre-requisets
 
@@ -34,7 +37,7 @@ Videos on this page are examples from another server, the files and setup may be
 
 {% file src="../.gitbook/assets/Screen Recording 2024-10-27 at 10.40.10 am.mov" %}
 
-### **Update Map Instructions**
+## **Update Map Instructions**
 
 Complete these each time you want to update
 
@@ -101,7 +104,7 @@ Once that is done, click `Repository -> Push` or press ctrl/cmd + P
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-14 at 12.40.32 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Thats it :) just wait four or so min for the website to update.
+Thats it :) just wait four or so min for the [website](https://pond-map.netlify.app) to update.
 {% endhint %}
 {% endstep %}
 {% endstepper %}

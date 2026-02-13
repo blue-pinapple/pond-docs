@@ -5,11 +5,11 @@ icon: map
 
 # Updating Static Map
 
-{% hint style="info" %}
+<a href="https://pond-map.netlify.app" class="button primary" data-icon="map">View Map</a>
+
+{% hint style="warning" %}
 Videos on this page are examples from another server, the files and setup may be different.
 {% endhint %}
-
-<a href="https://pond-map.netlify.app" class="button primary" data-icon="map">View Map</a>
 
 ### Pre-requisets
 

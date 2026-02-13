@@ -14,6 +14,7 @@
 * [Code of Conduct](code-of-conduct.md)
 * [Ethics Guidlines](ethics-guidlines.md)
 * [Pet Owners](pet-owners.md)
+* [Updating Static Map](mc-managment/updating-static-map.md)
 * [Setting up FileZilla](<README (1).md>)
 * [Updating the server](updating-the-server/README.md)
   * [World Trimming](updating-the-server/world-trimming.md)

@@ -1,0 +1,49 @@
+{
+  "BlockFilterSettings": {
+    "PredefinedFilters": {
+      "Seagrass": true,
+      "Grass": true,
+      "Flowers": true,
+      "Vine": true,
+      "Leaves": false,
+      "TreeLogs": false,
+      "Flora": false,
+      "Water": false,
+      "Ores": true
+    }
+  },
+  "DataPackSettings": {
+    "IsEnabled": true,
+    "LoadBiomeFoliageTint": true,
+    "LoadBiomeGrassTint": true,
+    "LoadBiomeWaterTint": true
+  },
+  "HighlightSettings": {
+    "IsEnabled": true,
+    "Items": [
+      {
+        "DataSource": "BlockFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:smooth_quartz_slab\",\"MaxY\":1,\"MinY\":0}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"Color\":\"#99ff99\"}"
+      }
+    ],
+    "MapSaturation": 100
+  },
+  "RendererSettings": {
+    "InhabitedChunksOnly": false,
+    "ShadowFoliageOpacity": 32.0,
+    "ShadowMode": 1,
+    "Shadows": true,
+    "TransparentUnderground": true,
+    "UseCaveEnhancements": false,
+    "UseElevationShading": false,
+    "UseTextures": true,
+    "WaterVisibilityRange": 10
+  },
+  "SlicerSettings": {},
+  "StylesheetSettings": {
+    "Settings": {}
+  }
+}

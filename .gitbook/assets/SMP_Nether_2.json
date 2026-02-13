@@ -1,0 +1,83 @@
+{
+  "BlockFilterSettings": {
+    "PredefinedFilters": {}
+  },
+  "DataPackSettings": {
+    "IsEnabled": true,
+    "LoadBiomeFoliageTint": true,
+    "LoadBiomeGrassTint": true,
+    "LoadBiomeWaterTint": true
+  },
+  "HighlightSettings": {
+    "IsEnabled": true,
+    "Items": [
+      {
+        "DataSource": "BlockFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:nether_portal\",\"MinY\":127}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderSize\":1,\"Color\":\"#5e1c9e\",\"FillOpacity\":51,\"FillSize\":6,\"OutlineSize\":0,\"Size\":1}"
+      },
+      {
+        "DataSource": "BlockFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:nether_portal\",\"MaxY\":127}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderOpacity\":50,\"BorderSize\":1,\"FillOpacity\":25,\"FillSize\":5,\"Opacity\":70,\"OutlineOpacity\":11,\"OutlineSize\":0,\"Size\":1}"
+      },
+      {
+        "DataSource": "BiomeFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:warped_forest\"}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderSize\":0,\"Color\":\"#49907B\",\"FillColor\":\"#49907B\",\"FillOpacity\":88,\"FillSize\":1,\"Opacity\":20,\"OutlineColor\":\"\",\"OutlineSize\":0,\"Size\":1}"
+      },
+      {
+        "DataSource": "BiomeFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:soul_sand_valley\",\"MaxY\":320,\"MinY\":-64}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderOpacity\":51,\"BorderSize\":0,\"Color\":\"#4D3A2E\",\"FillColor\":\"#4D3A2E\",\"FillOpacity\":80,\"FillSize\":1,\"Opacity\":20,\"OutlineSize\":0,\"Size\":1}"
+      },
+      {
+        "DataSource": "BiomeFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:nether_wastes\"}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderOpacity\":50,\"BorderSize\":0,\"Color\":\"#572526\",\"FillColor\":\"#572526\",\"FillOpacity\":100,\"FillSize\":1,\"Opacity\":20,\"OutlineSize\":0,\"Size\":1}"
+      },
+      {
+        "DataSource": "BiomeFinder",
+        "DataSourceSettings": "{\"Expression\":\"crimson_forest\"}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderSize\":0,\"Color\":\"#981A11\",\"FillColor\":\"#981A11\",\"FillSize\":1,\"Opacity\":20,\"OutlineSize\":0,\"Size\":1}"
+      },
+      {
+        "DataSource": "BiomeFinder",
+        "DataSourceSettings": "{\"Expression\":\"minecraft:basalt_deltas\"}",
+        "IsEnabled": true,
+        "Visualization": "BlockOverlay",
+        "VisualizationSettings": "{\"BorderSize\":0,\"Color\":\"#645F63\",\"FillOpacity\":100,\"FillSize\":1,\"Opacity\":20,\"OutlineSize\":0,\"Size\":1}"
+      }
+    ],
+    "MapSaturation": 50
+  },
+  "RendererSettings": {
+    "ColoringMode": 0,
+    "InhabitedChunksOnly": false,
+    "NightMode": false,
+    "ShadowFoliageOpacity": 32.0,
+    "ShadowMode": 0,
+    "Shadows": true,
+    "TransparentUnderground": true,
+    "UseCaveEnhancements": true,
+    "WaterVisibilityRange": 10
+  },
+  "SlicerSettings": {
+    "TopY": 0
+  },
+  "StylesheetSettings": {
+    "Settings": {}
+  }
+}

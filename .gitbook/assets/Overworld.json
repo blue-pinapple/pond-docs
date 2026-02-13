@@ -1,0 +1,39 @@
+{
+  "BlockFilterSettings": {
+    "IsEnabled": true,
+    "PredefinedFilters": {
+      "Seagrass": true,
+      "Grass": true,
+      "Flowers": true,
+      "Vine": true,
+      "Leaves": false,
+      "TreeLogs": false,
+      "Flora": false,
+      "Water": false,
+      "Ores": true
+    }
+  },
+  "DataPackSettings": {
+    "IsEnabled": true,
+    "LoadBiomeFoliageTint": true,
+    "LoadBiomeGrassTint": true,
+    "LoadBiomeWaterTint": true
+  },
+  "HighlightSettings": {
+    "Items": []
+  },
+  "RendererSettings": {
+    "InhabitedChunksOnly": false,
+    "ShadowFoliageOpacity": 32.0,
+    "ShadowMode": 0,
+    "Shadows": true,
+    "TransparentUnderground": true,
+    "UseCaveEnhancements": true,
+    "UseTextures": true,
+    "WaterVisibilityRange": 10
+  },
+  "SlicerSettings": {},
+  "StylesheetSettings": {
+    "Settings": {}
+  }
+}

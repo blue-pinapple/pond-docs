@@ -9,6 +9,7 @@
 
 ## MC Managment
 
+* [Bedrock/Geyser](mc-managment/bedrock-geyser.md)
 * [Transferring accounts](mc-managment/transferring-accounts.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Ethics Guidlines](ethics-guidlines.md)

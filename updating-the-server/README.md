@@ -50,7 +50,7 @@ Give people a 30 min warning then shut the server down at the allocated time. Th
 {% step %}
 ### Final Plugins and datapack updates
 
-Update the plugins that are version spesfic and datapacks
+Update the plugins that are version-specific and datapacks
 
 {% hint style="info" %}
 To update data packs contact @b\_a\_whale or @loewe\_\_
@@ -66,7 +66,7 @@ Decide if you need to do a world trim and use the trim tab on apex to do it. Ful
 {% step %}
 ### Update Jar & Start Up
 
-TODO
+TODO. — Instructions unfinished as we no longer use apex hosting
 
 {% hint style="success" %}
 Take a break, you've done well.

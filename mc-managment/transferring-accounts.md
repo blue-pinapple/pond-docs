@@ -59,4 +59,8 @@ _Some_ plugins follow a similar data pattern
 /default/plugins/Essentials/userdata
 ```
 
-I'm sure there may be more
+I'm sure there may be more<br>
+
+## Entites
+
+Transferring pets and other data that is stored in blocks/entities must be done manually; check out [#setting-owner](../pet-owners.md#setting-owner "mention") for more details.

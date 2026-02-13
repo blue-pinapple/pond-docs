@@ -49,4 +49,16 @@ To prevent double questions, we must remove the old one. Run `/edit` like in [St
 
 Any form button should update without needing to run `/send`. I recommend checking that the form is how you want before continuing.
 {% endstep %}
+
+{% step %}
+### Sending (Optional)
+
+If you do end up needing to send it again, use `/send` and select the right forms.
+
+Here is an example:
+
+```
+/send channel:<#1282813983635804210> title:Server Application description:Press the button bellow to get whitelisted on the MC server. I still recomend reading the above. color:Orange
+```
+{% endstep %}
 {% endstepper %}

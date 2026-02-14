@@ -62,3 +62,23 @@ Here is an example:
 ```
 {% endstep %}
 {% endstepper %}
+
+
+# Actions
+To edit an action, create a new one then delete the old. `/action ...`
+## Send Channel Example
+```
+{user}
+**{question-1}**
+{value-1}
+**{question-2}**
+{value-2}
+**{question-3}**
+{value-3}
+**{question-4}**
+{value-4}
+```
+```
+<@&1260740257499058250> Check https://pond-docs.gitbook.io/mods/mc-managment/bedrock-geyser for linking & alt. 
+https://pond-docs.gitbook.io/mods/mc-managment/transferring-accounts for transfer.
+```

@@ -5,7 +5,7 @@
 ## Discord
 
 * [Editing Form Components](editing-form-components.md)
-* [Page 2](discord/page-2.md)
+* [How to edit this guide](discord/how-to-edit-this-guide.md)
 
 ## MC Managment
 
